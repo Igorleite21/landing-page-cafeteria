@@ -264,3 +264,10 @@ section {
     color: var(--main-color);
     
 }
+
+@media screen and (min-width: 780px) {
+    .section .a .logo {
+    margin: auto;
+    width: 90%;
+    }
+}
