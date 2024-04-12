@@ -265,16 +265,6 @@ section {
     
 }
 
-@media screen and (min-width: 780px) {
-    .section .a .logo {
-    margin: auto;
-    width: 90%;
-    }
-}
 
-@media screen and (min-width: 780px) {
-    .home-container .content .btn {
-    margin: auto;
-    width: 90%;
-    }
-}
+
+
